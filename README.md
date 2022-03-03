@@ -21,7 +21,7 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 * **IS_SUCCESSFUL**—Was the money used effectively
 
 # Conclusions
-Followed instructions and created model yielding 72% accuracy. Did a second pass at the code with with Starter_Code_keep_name  and it yielded a 75% accuracy.
+Followed instructions and created model yielding 72% accuracy. Did a second pass at the code with with Starter_Code_keep_name  and it yielded a 75% accuracy. 75% was reached by keeping the "NAME" column.  Though I did do binning on it to reduce the columns.
 Normally I would make a detailed readme :worried:
 But I have the final project in process, eight days away, and I still have one more homework to complete, HELP!
 
